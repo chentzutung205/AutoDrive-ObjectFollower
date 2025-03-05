@@ -26,8 +26,8 @@ This node subscribes to the object coordinate messages from the find_object node
 This node is designed to run on your personal computer and allows you to visualize the processed images from the Turtlebot.
 
 ## Usage
-1. Ensure all dependencies are installed.
-2. Clone this package into your ROS2 workspace.
+1. Clone this package into your ROS2 workspace.
+2. Ensure all dependencies are installed.
 3. Build the package using colcon build.
 4. Source your workspace.
 5. Run the nodes using:
